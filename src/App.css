@@ -1,0 +1,8 @@
+*{margin: 0px; padding: 0px;}
+body{font-family: 'Roboto', sans-serif;}
+.headerstyle{ display: flex; justify-content: center; align-items: center; padding: 20px 10px; font-size: 30px; color: #fff; font-weight: 500;}
+.todoinBui{ display: flex; justify-content: center;  }
+.todoCard{ border: solid 1px #ccc;width: 50%; padding: 10px; background: #f1f1f1; border-radius: 10px; box-shadow: 1px 1px 1px #ccc; display: flex; margin: 20px 0;}
+.todoRwo{ display: flex; flex-direction: column; gap: 15px; width: 100%; justify-content: space-between;}
+.flexcolum{ display: flex; flex-direction: column; align-items: center;}
+.todoshow{ width: 100%; display: flex;}
